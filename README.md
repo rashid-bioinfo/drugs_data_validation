@@ -11,7 +11,7 @@ xerostomia / Early / 0-40.0 anxiety / Delayed / 38.0-38.0 drowsiness / Early / 1
 
 ---
 
-## Explanation of the data provided above (Comprehension of data)
+## Explanation of the data provided above (comprehension of data)
 
 The adverse effects are categorized by severity into three groups:
 - **Severe**
